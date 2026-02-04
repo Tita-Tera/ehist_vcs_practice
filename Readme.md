@@ -1,4 +1,4 @@
-# student-vcs-practice
+# Version Control Practice
 
 ## Project Description
 This repository is created as part of the **Version Control Assignment** to demonstrate proficiency in using Git and GitHub. The project serves as a practical exercise in initializing repositories, managing commits, and navigating the Git workflow
